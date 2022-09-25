@@ -1,0 +1,32 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: baseline;
+  }
+  h2 {
+    margin-left: 200px;
+  }
+  section {
+    float: left;
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .flexdiv {
+    width: 400px;
+  }
+  aside {
+    float: right;
+    width: 30%;
+  }
+  h3 {
+    margin-left: 20px;
+  }
+  footer {
+    clear: both;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+  }
